@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'iosAssignment' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for iosAssignment
+pod 'lottie-ios'
+pod 'ShimmerSwift'
+
+  target 'iosAssignmentTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'iosAssignmentUITests' do
+    # Pods for testing
+  end
+
+end

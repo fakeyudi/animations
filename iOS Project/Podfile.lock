@@ -1,0 +1,20 @@
+PODS:
+  - lottie-ios (3.1.9)
+  - ShimmerSwift (2.1.1)
+
+DEPENDENCIES:
+  - lottie-ios
+  - ShimmerSwift
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - ShimmerSwift
+
+SPEC CHECKSUMS:
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  ShimmerSwift: f7ed2daf9c246de8299dfd9e12c6ab465cba9842
+
+PODFILE CHECKSUM: 9880638a6606cd3914a2dc19d3bb39f28f78fd56
+
+COCOAPODS: 1.10.0
